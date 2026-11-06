@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+runs/
+*.mp4
+*.pt
+!yolo26n-2.pt
